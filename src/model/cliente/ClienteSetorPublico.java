@@ -13,7 +13,7 @@ public class ClienteSetorPublico extends Cliente {
 		return nivelOrgao;
 	}
 
-	public void setNivelOrgao(String nivelOrgão) {
+	public void setNivelOrgao(String nivelOrgao) {
 		this.nivelOrgao = nivelOrgao;
 	}
 
